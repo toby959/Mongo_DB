@@ -4,5 +4,5 @@ Este Proyecto es para recordar que cuando se usa la BD Mongo, se debe colocar @I
 ___
 ![alt text](imagen_1.png)
 ___
-![alt text](image_2.png)
+![alt text](imagen_2.png)
 ___
