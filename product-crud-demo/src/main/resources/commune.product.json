@@ -1,0 +1,35 @@
+[{
+  "_id": 117,
+  "prodName": "MOUSE HP",
+  "price": 10.99,
+  "desc": "This is Online",
+  "_class": "com.example.demo.entity.Product"
+},
+{
+  "_id": 118,
+  "prodName": "MacBook Air Laptop",
+  "price": 900.99,
+  "desc": "This is having 256GB SSD",
+  "_class": "com.example.demo.entity.Product"
+},
+{
+  "_id": 123,
+  "prodName": "Teclado",
+  "price": 9.9,
+  "desc": "This is like",
+  "_class": "com.example.demo.entity.Product"
+},
+{
+  "_id": 124,
+  "prodName": "CPU Rayador ceso",
+  "price": 333.9,
+  "desc": "This is like",
+  "_class": "com.example.demo.entity.Product"
+},
+{
+  "_id": 133,
+  "prodName": "CPU Rayador",
+  "price": 229.9,
+  "desc": "This is like",
+  "_class": "com.example.demo.entity.Product"
+}]
